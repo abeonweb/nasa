@@ -3,7 +3,7 @@ const planets = require('./planets.mongo');
 const axios = require('axios');
 
 
-const DEFAULT_FLIGHT_NUMBER = 0;
+const DEFAULT_FLIGHT_NUMBER = 100;
 
 // const launch = {
 //     flightNumber: 100, //flight_number
